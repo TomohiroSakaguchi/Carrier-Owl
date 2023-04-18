@@ -1,11 +1,11 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:eess.AS OR cs.SD'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        audio: 1
+        sound reproduction: 4
+        sound field: 2
 
 # 通知の閾値
 score_threshold: 0
